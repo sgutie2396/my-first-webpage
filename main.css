@@ -55,23 +55,3 @@ a:link, a:visited {
 a:hover, a:active {
     background-color: #a64dff;
 }
-
-
-
-div.img {
-    margin: 10px;
-    border: 1px solid #ffffff;
-    float: left;
-    width: 20%;
-    background-color: #ffffff;
-}
-
-div.img img {
-    width: 100%;
-    height: auto;
-}
-
-div.desc {
-    padding: 10px;
-    text-align: center;
-}
